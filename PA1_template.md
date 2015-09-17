@@ -1,5 +1,8 @@
 ---
-output: html_document
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
 ---
 # Analysis of data from a personal activity monitoring device
 
